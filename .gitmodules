@@ -1,0 +1,6 @@
+[submodule "bottle-light-systemworkbench"]
+	path = bottle-light-systemworkbench
+	url = https://github.com/HansAchterbahn/bottle-light-systemworkbench
+[submodule "bottle-light-eagle"]
+	path = bottle-light-eagle
+	url = https://github.com/HansAchterbahn/bottle-light-eagle
